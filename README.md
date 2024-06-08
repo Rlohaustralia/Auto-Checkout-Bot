@@ -4,6 +4,8 @@ It navigates through the website, selects a product, fills in the order form, an
 
 # Demo
 https://youtu.be/0WT81IIxJYc
+<img width="911" alt="Thumb" src="https://github.com/Rlohaustralia/Auto-Checkout-Bot/assets/110233607/156591f2-64fe-4764-aa42-96e3fdcd7dc6">
+
 
 # Prerequisites
 Before running the script, ensure you have the following installed:
