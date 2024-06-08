@@ -1,5 +1,4 @@
-# Auto-Checkout-Bot
-Selenium Web Automation Script
+# Auto-Checkout-Bot (Selenium Web Automation Script)
 This script is designed to automate the process of ordering a product from an online store using Selenium WebDriver.
 It navigates through the website, selects a product, fills in the order form, and completes all necessary steps before the payment process.
 
