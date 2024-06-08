@@ -9,8 +9,6 @@ Selenium WebDriver for Python
 Google Chrome browser
 ChromeDriver (compatible with your Chrome version)
 You can install Selenium WebDriver for Python using pip:
-
-# Copy code
 pip install selenium
 
 # Usage
